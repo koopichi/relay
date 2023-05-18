@@ -4,5 +4,5 @@ iptables -F
 ```
 **delete chain
 ```
-iptables -x
+iptables -X
 ```
